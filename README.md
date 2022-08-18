@@ -1,0 +1,2 @@
+# Firefox-STIG-mobileconfig
+settings taken from MOZILLA FIREFOX SECURITY TECHNICAL IMPLEMENTATION GUIDE (STIG) OVERVIEW Version 6, Release 3 27 July 2022
